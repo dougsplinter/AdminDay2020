@@ -1,5 +1,5 @@
 # AdminDay2020
-Stream of thing you need:
+Stream of things you might want to look at or copy from:
 
 
 Macro Edit Snips:
